@@ -1,7 +1,7 @@
 # stm32-i2cdetect
 Finds every I2C device on the bus.
 
-### Table of content
+### Table of Contents
 - [Introduction](#introduction)
 - [How it works](#how-it-works)
 - [Porting](#porting)
